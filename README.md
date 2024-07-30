@@ -1,9 +1,9 @@
 # CALCULADORA DE INVESTIMENTOS
 
-Projeto realizado no iício dos meus estudo de Front End
+Projeto realizado no início dos meus estudos de Front End
 
 ## **Forma de uso**
-  A interface é auto explicativa, porém na hora de informar a porcentagem digite como se você fosse utilizar '%', sendo 10 para representar 10%, 1 para representar 1% e assim por diante. 
+  A interface é auto explicativa, porém na hora de informar a porcentagem, digite como se você fosse utilizar '%', sendo 10 para representar 10%, 1 para representar 1% e assim por diante. 
   
   Para preencher o restante, basta se atentar as instruções feitas no PlaceHolder em cada campo
 
