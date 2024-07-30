@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Investimentos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    
+
+    <div class="container">
+ 
+        <input type="number" id="ValorInicial" placeholder="Valor inicial investido">
+
+        <input type="number" id="tempo" placeholder="Meses investidos">
+
+        <input type="number" id="rendimento" placeholder="Rendimento mensal">
+
+        <input type="number" id="aporte" placeholder="Aporte">
+
+    </div>
+
+    <button type="button" onclick="CalculaInvestimentos()">Calcular</button>
+
+    <table id="tabela">
+        <thead>
+            <tr>
+                <td>Tempo</td>
+                <td>Valor aplicado</td>
+                <td>Valor após rendimento</td>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- 
+                <tr>
+                <td>1</td>
+                <td>110</td>
+                <td>120</td>
+            </tr>
+             -->
+            
+        </tbody>
+    </table>
+
+    <script src="ScriptInvestimentos.js"></script>
+</body>
+</html>
